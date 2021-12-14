@@ -4,7 +4,7 @@
 
 - 🌱 I’m currently learning (PERN stack) and a lot more
 - 💬 Ask me about ... anything
-- 😄 I just love computers and programming 
+- 😄 I love computers and programming 
 
 📫 How to reach me: sudanalhilaly@gmail.com
 
