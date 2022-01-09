@@ -6,8 +6,8 @@
 - 💬 Ask me about ... anything
 - 😄 I love computers and programming 
 - 🥇 Top Repo
-- 
-  <a href="https://github.com/SudanAlhilali/simplified-fatoora"><img algin="center" src="https://github-readme-stats.vercel.app/api/pin/?username=SudanAlhilali&repo=simplified-fatoora"/></a>
+
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=SudanAlhilali&repo=simplified-fatoora)](https://github.com/SudanAlhilali/simplified-fatoora)
 
 📫 How to reach me: sudanalhilaly@gmail.com
 
