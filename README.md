@@ -5,6 +5,8 @@
 - 🌱 I’m currently learning (PERN stack) and a lot more
 - 💬 Ask me about ... anything
 - 😄 I love computers and programming 
+- 🥇 Top Repo
+  <a href="https://github.com/SudanAlhilali/simplified-fatoora"><img algin="center" src="https://github-readme-stats.vercel.app/api/pin/?username=SudanAlhilali&repo=simplified-fatoora"/></a>
 
 📫 How to reach me: sudanalhilaly@gmail.com
 
