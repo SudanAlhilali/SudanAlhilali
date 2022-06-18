@@ -2,7 +2,7 @@
 
 
 
-- 🌱 I’m currently learning (PERN stack) and a lot more
+- 🌱 I’m learning
 - 💬 Ask me about ... anything
 - 😄 I love computers and programming 
 - 🥇 Top Repo
